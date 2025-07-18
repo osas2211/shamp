@@ -34,12 +34,12 @@ export default function Home() {
           <img src="/hero-bottom.png" />
         </div>
       </div>
-      <div className="max-w-[849px] mx-auto mt-[120px] md:mt-[208px] mb-[32px] md:mb-[64px]">
+      <div className="max-w-[849px] mx-auto mt-[120px] md:mt-[208px] mb-[40px] md:mb-[64px]">
         <p className="md:text-center md:text-[48px] text-[24px] leading-[100%] md:mb-[64px] mb-[40px]">
           AI accelerates development, but web-app usability testing still lags,
           teams are held back by slow feedback loops and fragmented workflows.
         </p>
-        <div className="flex items-center justify-center gap-[10px]">
+        <div className="flex items-center md:justify-center gap-[10px]">
           <p className="md:text-[32px] text-[24px] font-semibold">
             Challenges We Solve
           </p>
