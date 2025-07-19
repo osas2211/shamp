@@ -39,7 +39,7 @@ export default function Home() {
         </div>
       </div>
       <div className="max-w-[849px] mx-auto mt-[70px] md:mt-[208px] mb-[40px] md:mb-[64px]">
-        <p className="md:text-center md:text-[48px] text-[24px] leading-[100%]">
+        <p className="md:text-center md:text-[48px] text-[28px] leading-[100%]">
           AI accelerates development, but web-app usability testing still lags,
           teams are held back by slow feedback loops and fragmented workflows.
         </p>
